@@ -1,0 +1,7 @@
+Una vez le haya dado el enlace en donde se encuentra el proyecto ingrese lo siguiente http://127.0.0.1:8000/admin/ donde lo guiara al proyecto y cree un usuario o si puede ingrese al mio aqui le dejo los detalles.
+
+Usuario: 
+chambita
+
+contraseña
+8830salvador
